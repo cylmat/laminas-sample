@@ -1,5 +1,5 @@
 {
-    "name": "freeonisland/zend-laminas-ex",
+    "name": "cylmat/zend-laminas-ex",
     "description": "Essais d'utilisation du framework et des modules de Zend-Laminas",
     "type": "tests",
     "license": "none",
@@ -25,6 +25,7 @@
         "laminas/laminas-db": "^2.11",
         "laminas/laminas-di": "^3.1",
         "laminas/laminas-form": "^2.15",
+        "laminas/laminas-http": "^2.14.2"
         "laminas/laminas-i18n": "^2.10",
         "laminas/laminas-ldap": "^2.10",
         "laminas/laminas-math": "^3.2",

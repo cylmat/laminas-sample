@@ -5,7 +5,7 @@
     "license": "none",
     "authors": [
         {
-            "name": "freeonisland",
+            "name": "cylmat",
             "email": "freeonisland@yahoo.fr"
         }
     ],
@@ -25,7 +25,7 @@
         "laminas/laminas-db": "^2.11",
         "laminas/laminas-di": "^3.1",
         "laminas/laminas-form": "^2.15",
-        "laminas/laminas-http": "^2.14.2"
+        "laminas/laminas-http": "^2.14.2",
         "laminas/laminas-i18n": "^2.10",
         "laminas/laminas-ldap": "^2.10",
         "laminas/laminas-math": "^3.2",
